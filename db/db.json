@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Appudi_Podu_",
+      "singer": "Sukhwinder Singh, Sunidhi Chauhan, KK, Anuradha Sriram, and Udit Narayan",
+      "genre": "action, drama, and sports",
+      "imgUrl": "https://wallpaperaccess.com/full/3026144.jpg",
+      "songUrl": "Songs/Appudi_Podu_Podu_Podu_[MassWala.Com].mp3"
+    },
+    {
+      "id": "2",
+      "title": "Arjunaru_Villu_",
+      "singer": "Sukhwinder Singh, Sunidhi Chauhan, KK, Anuradha Sriram, and Udit Narayan",
+      "genre": "action, drama, and sports",
+      "imgUrl": "https://wallpaperaccess.com/full/8853345.jpg",
+      "songUrl": "Songs/Arjunaru_Villu_Arichandran_Sollu_[MassWala.Com].mp3"
+    },
+    {
+      "id": "3",
+      "title": "Kabadi_Kabadi_",
+      "singer": "Sukhwinder Singh, Sunidhi Chauhan, KK, Anuradha Sriram, and Udit Narayan",
+      "genre": "action, drama, and sports",
+      "imgUrl": "https://wallpaperaccess.com/full/8853344.jpg",
+      "songUrl": "Songs/Kabadi_Kabadi_[MassWala.Com].mp3"
+    },
+    {
+      "id": "4",
+      "title": "Kokkarakko_",
+      "singer": "Sukhwinder Singh, Sunidhi Chauhan, KK, Anuradha Sriram, and Udit Narayan",
+      "genre": "action, drama, and sports",
+      "imgUrl": "https://wallpaperaccess.com/full/8853338.jpg",
+      "songUrl": "Songs/Kokkarakko_Vidiya_Kokkarako_[MassWala.Com].mp3"
+    },
+    {
+      "id": "5",
+      "title": "Soora_Thenga",
+      "singer": "Sukhwinder Singh, Sunidhi Chauhan, KK, Anuradha Sriram, and Udit Narayan",
+      "genre": "action, drama, and sports",
+      "imgUrl": "https://wallpaperaccess.com/full/8853343.jpg",
+      "songUrl": "Songs/Soora_Thenga_Adra_Adra_[MassWala.Com].mp3"
+    },
+    {
+      "id": "6",
+      "title": "Sha_La_La_",
+      "singer": "Sukhwinder Singh, Sunidhi Chauhan, KK, Anuradha Sriram, and Udit Narayan",
+      "genre": "action, drama, and sports",
+      "imgUrl": "https://wallpaperaccess.com/full/8853344.jpg",
+      "songUrl": "Songs/Sha_La_La_Rettai_Val_Vennila_[MassWala.Com].mp3"
+    }
+  ],
+  "favorities": [],
+  "playlist": []
+}
